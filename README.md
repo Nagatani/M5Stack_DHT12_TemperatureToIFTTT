@@ -2,6 +2,10 @@
 
 M5Stackとプロトタイピングキットについてくる温度湿度センサDHT12を使って、部屋の温度をIFTTTのWebhooksに投げるやつ
 
+## ブログ書いた
+
+- [M5StackとDHT12で作る部屋の温度湿度をIFTTTのWebhooksへ投げるやつ | Memorandum](https://nagatani.github.io/posts/m5stack-dht12-temptoifttt/)
+
 ## やってること
 
 - NTPサーバーにつないで時刻調整
