@@ -1,0 +1,3 @@
+# M5Stack_DHT12_TemperatureToIFTTT
+
+M5Stackとプロトタイピングキットについてくる温度湿度センサDHT12を使って、部屋の温度をIFTTTのWebhooksに投げるやつ

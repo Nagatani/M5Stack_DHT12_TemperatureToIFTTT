@@ -1,0 +1,7 @@
+#include "Config.h"
+
+const char* WIFI_SSID = "XXXXXXXX";
+const char* WIFI_PASSWORD = "XXXXXXXXXXXXXXXXXX";
+
+const String WEBHOOKS_EVENT = "XXXXXXXXX";
+const String WEBHOOKS_KEY = "XXXXXXXXXXXXXXXXXXXXXXXXXXX";
